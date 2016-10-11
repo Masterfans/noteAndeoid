@@ -7,5 +7,6 @@
 
 ##版本回退
 > 回到上一次修改的版本 git log 查看历史记录 显示历史提交记录
-q 键退出git log 
+> q 键退出git log 
+> git log --pretty==oneline 把日志排列显示
 > ##测试
