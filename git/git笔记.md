@@ -13,3 +13,4 @@
 > git reset --hard HEAD^ 回退到上一个版本
 >#^ 是键盘上的6666666
 > git reflog 显示每一条git的记录 可以回退到删除以前的状态
+> cat readme.md 查看文件
