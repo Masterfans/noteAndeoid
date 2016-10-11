@@ -10,4 +10,5 @@
 > q 键退出git log 
 > git log --pretty==oneline 把日志排列显示
 > ##测试
-> git reset --hard HEAD` 回退到上一个版本
+> git reset --hard HEAD^ 回退到上一个版本
+>#^ 是键盘上的6666666
