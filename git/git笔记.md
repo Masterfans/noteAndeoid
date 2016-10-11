@@ -6,3 +6,5 @@
 > 4. git diff 查看具体修改了那些内容 ; git diff 就是difference
 
 ##版本回退
+> 回到上一次修改的版本 git log 查看历史记录 显示历史提交记录
+q 键退出git log
