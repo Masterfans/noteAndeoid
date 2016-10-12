@@ -16,6 +16,7 @@
 #git环境配置
 > suto apt-get install git linux安装git
 > git config --global user.name "Your Name"
+>
 > git config --global user.emaill "emaill@example.com"
 
 ##创建版本库
