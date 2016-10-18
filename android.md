@@ -1,2 +1,4 @@
-#androidÖªÊ¶µã
-> 1 Android vector Path Data»­Í¼Ïê½â
+#android
+> 1 Android vector Path Data
+##androidä¸é”™çš„å¼€æºèµ„æº
+>[æ‰“å¼€](http://www.open-open.com/lib/view/open1411443332703.html)
