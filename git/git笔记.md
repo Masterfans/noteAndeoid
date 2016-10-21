@@ -49,6 +49,25 @@
 
 > 一天没摸了,快忘了,敲点什么记录一下,
 > git 命令好像要在根目录使用,要不会提交错误
+###配置git命令 D:/program files (x86)
+##2016.10.22
+> mkdir name 穿件文件夹
+> git add 
+> git commit
+> git diff
+> git status
+> git branch 查看当前的分支
+> git branch a 新建 a 分支
+> git init
+> git checkout a 切换到啊分支
+> git checkout -b test 新建test分支,并且换回去
+> git branch -d a 删除 a 分支
+> git branch -D a 强制删除,不管没有没有, 没有提交的代码
+> git tag tagv.1 创建 tagv.1这个版本,
+> git checkout tagv.1 切换到tagv.1
+
+#SSH
+> SSH是一种网络协议 ,用于计算机之间的加密传输
 
 
 
