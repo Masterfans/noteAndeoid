@@ -74,11 +74,36 @@
 
 ## merge
 > git merge a 把a分支的内容合并到当前分支
-
+##关联仓库
+> git remote add origin git@github.com:Masterfans/test.git
+> 添加一个远程的仓库,地址为git@github.com:Masterfans/test.git
+> origin是仓库的名字, 可以随便起名
+> git remote -v 查看当前的项目有那些远程仓库
+> git pull origin master 
+> 默认向github的test目录提交代码,在master分支上
+##配置邮箱等信息
+> git config --global user.name Masterfans
+> git config --global user.email Masterr_Robot@163.com
+## alias 别名设置
+> 最常用的git command
+> git status 
+> git commit
+> git branch
+> git checkout
+##配置别名
+> git config --global alias.co checkout
+> git config --global alias.ci commit
+> git config --global alias.st status
+> git config --global alias.br branch
+##格式化输出
+>git log –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset’ –abbrev-commit –date=relative 
+> git diff <$id1> <$id2>   # 比较两次提交之间的差异
+> git diff <branch1>..<branch2> # 在两个分支之间比较 
+> git diff --staged   # 比较暂存区和版本库差异
 
 
 ##注销了以前的github账号
-
+> 今天发现我的账号竟然是15年年底注册的,,,,,略感颓废啊,,,,现在才了解git
 
 
 
