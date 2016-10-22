@@ -73,6 +73,7 @@
 ## branch分支
 
 ## merge
+> git merge a 把a分支的内容合并到当前分支
 
 
 
