@@ -5,4 +5,4 @@
 
 ##Android默认的资源文件
 > sdk/platforms/android-24/data/res
-> 
+
