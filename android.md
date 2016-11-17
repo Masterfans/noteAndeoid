@@ -47,3 +47,24 @@
 	> 这个应该也很重要的了,存放个有辅助开发的工具,ddms draw9patch,hierarchyviewer布局分析,uiautomatorviewer等
 
 
+##SetupWizardLayout 
+
+##TemplateLayout
+
+##Illustration
+
+#数据库查询
+
+Order by
+用途：
+
+指定结果集的排序
+
+语法：
+
+SELECT column-name(s) FROM table-name ORDER BY { order_by_expression [ ASC | DESC ] }
+ 
+
+解释：
+
+ 指定结果集的排序，可以按照ASC(递增方式排序，从最低值到最高值)或者DESC(递减方式排序，从最高值到最低值)的方式进行排序，默认的方式是ASC
