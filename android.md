@@ -68,3 +68,11 @@ SELECT column-name(s) FROM table-name ORDER BY { order_by_expression [ ASC | DES
 解释：
 
  指定结果集的排序，可以按照ASC(递增方式排序，从最低值到最高值)或者DESC(递减方式排序，从最高值到最低值)的方式进行排序，默认的方式是ASC
+
+## android Preconditions工具类
+> 路径: com.android.internal.util
+> checkStringNoEmpty(T)
+> CheckStringNotEmpty(T,Object)
+> 各种检查参数是否正确
+
+## PermissionUtil 权限工具
