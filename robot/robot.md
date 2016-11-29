@@ -23,3 +23,21 @@
 > 多思考,多看,多练, 一遍不行,就再来一边, 我相信没有什么问题是努力解决不掉的,如果有,那就继续努力
 ##......听说360网盘要关了,移动硬盘销量一下子上去了
 > 几天没有用git command了,熟悉一下
+
+##你想比别人更优秀,你就要比别人失去更多
+> 比你优秀的人都在努力,你还有什么理由?
+
+##有条例的计划会让你事半功倍
+> 学习一定要有目的,有计划,不能全靠一股脑的热劲学习,这样不仅效率低下,成效不好,而且会打击学习的信心,不仅对学习毫无帮助, 而且还浪浪费了大量的时间,每天晚上,做个笔记,记录一下,当天都学习了什么,大致过一下,都学到了什么,就这样,一步一步的走下去,你的潜力是无穷的,可能最难的就是坚持这件事了,坚持下去,你会有意想不到的收获
+
+##靠外再的因素影响自己
+> 坚持这件事,确实很难, 比你优秀的人都在努力,你努力还有什么用呢?这不是你应该想的,之所以他们那么优秀,大部分是因为他们坚持下去了
+
+## 成长没有捷径
+> 快速的成长办法不是没有,能够能成功的无非就是努力,努力,坚持努力,比你优秀的人都在努力,你想有捷径?
+> 不错的几个网站
+- Gank: [http://gank.io](http://gank.io/)
+- AndroidDevTools: [http://www.androiddevtools.cn](http://androiddevtools.cn)
+- Android官方培训课程: [http://hukai.me/android-training-course-in-chinese/](http://hukai.me/android-training-course-in-chinese/)
+- Android官方Api: [https://developer.android.com/index.html](https://developer.android.com/index.html)
+

@@ -19,4 +19,41 @@
 > protected abstract IContentProvider acquireProvider(Context,String)
 
 #Providers实现方法
-> 其实实在
+> ContentImpl.ApplicationContentResolver中
+> 由mMainThread.acquireProvider(context,String,userID,stable)生成
+
+##ContentResolver和ContentProvider
+
+##ContactsProvider2
+> insertInTransaction(Uri,ContentValues)
+> swtich(uri)
+> insertRawContact
+> 
+
+##ContactsDatabaseHelper
+
+##ProfileProvider
+
+## ContactLocaleUtils
+> getBucketIndex(name)
+> getBucketLabel(index)
+
+##两个关键的key
+> phonebook_label_alt
+> phonebook_bucket_alt
+> sort_key_alt
+
+##Bucket
+> 每个对象就是一个字符
+> label 字符的实际内容
+> displayIndex 在所有bucket中的位置
+
+##AlphabeticIndex
+> 实现了Interable借口,有iterator()函数
+> 里面可以存放所有语言的Bucket
+> bucketList/immutableVisibleList中存放所有的Bucket
+> bucketList/ 中文中是51个/ 第一遍的缺少ijk等字母
+> immutableVisibleList/中文28个
+> ##内部类 ImmutableIndex 正真含有Bucket的对象
+> AlphabeticIndex.buildImmutableIndex()返回每个语言的字符(日文12个,前缀和后缀)
+> 
