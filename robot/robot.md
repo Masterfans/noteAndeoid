@@ -40,4 +40,4 @@
 - AndroidDevTools: [http://www.androiddevtools.cn](http://androiddevtools.cn)
 - Android官方培训课程: [http://hukai.me/android-training-course-in-chinese/](http://hukai.me/android-training-course-in-chinese/)
 - Android官方Api: [https://developer.android.com/index.html](https://developer.android.com/index.html)
-
+- android官方中文版[http://developer.android.google.cn](!http://developer.android.google.cn)
